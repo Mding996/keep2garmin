@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# 个人运动数据（隐私，勿上传）
+gpx_output/
+*.gpx
+*.tcx
+
+# 构建产物（EXE 通过 GitHub Releases 发布）
+dist/
+build/
+*.spec
+
+# 本地文档与非发布文件
+操作手册.docx
+操作手册.md
+小红书笔记.md
+
+# 工作区内部数据
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
